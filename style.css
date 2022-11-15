@@ -201,7 +201,238 @@ body {
         .barra3 ul li :hover::after {
             width: 100%;
         }
-        .SONGS {
-            
-
+        .spotify {     
+    display: flex;
+    justify-content: center;
+   
         }
+       
+          
+        .banner4 {  
+            width: 100%;
+            height: 100vh;
+            background-image: linear-gradient(rgba(235, 158, 158, 0.65), rgba(0, 0, 0, 0.65)), url(https://p.favim.com/orig/2018/10/10/gif-shawn-mendes-Favim.com-6396623.gif);
+            background-size: cover; 
+            background-position: center;
+        }
+        .barra4 {
+            width: 85%;
+            margin: auto;
+            padding: 35px 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            }
+            .logo4 {
+                width: 120px;
+                cursor: pointer;
+            }
+            .barra4 ul li {
+                list-style: none;
+                display: inline-block;
+                margin: 0 20px;
+                position: relative;
+            }
+            .barra4 ul li a {
+                text-decoration: none;
+                color: rgb(0, 0, 0);
+                text-transform: uppercase;
+            }
+            .barra4 ul li ::after {
+                content: '';
+                height: 3px;
+                width: 0;
+                background: rgb(0, 0, 0);
+                position: absolute;
+                left: 0px;
+                bottom: -5px;
+                transition: 0.5s;
+        
+            }
+            .barra4 ul li :hover::after {
+                width: 100%;
+            }
+            .content4 {
+                width: 100%;
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                text-align: center;
+                color:rgb(236, 158, 158)
+            }
+            .content4 h4 {
+                font-size: 70px;
+                margin-top: 80px;
+            }
+            .banner5 { 
+                width: 100%;
+                height: 100vh;
+                background-image: linear-gradient(rgba(235, 158, 158, 0.65), rgba(0, 0, 0, 0.65)), url(https://64.media.tumblr.com/db4dd0c21e48c9abbe73b01c79ef1c12/578436077289df99-78/s400x600/a158c3c9173a13ce4684d38494bd1b37fc7ee85d.gifv);
+                background-size: cover;
+                background-position: center;
+             }  
+             .barra5 {
+                width: 85%;
+                margin: auto;
+                padding: 35px 0;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                }
+                .logo5 {
+                    width: 120px;
+                    cursor: pointer;
+                }
+                .barra5 ul li {
+                    list-style: none;
+                    display: inline-block;
+                    margin: 0 20px;
+                    position: relative;
+                }
+                .barra5 ul li a {
+                    text-decoration: none;
+                    color: rgb(0, 0, 0);
+                    text-transform: uppercase;
+                }
+                .barra5 ul li ::after {
+                    content: '';
+                    height: 3px;
+                    width: 0;
+                    background: rgb(0, 0, 0);
+                    position: absolute;
+                    left: 0px;
+                    bottom: -5px;
+                    transition: 0.5s;
+        
+                }
+                .barra5 ul li :hover::after {
+                    width: 100%;
+                }
+                .content5 {
+                    width: 100%;
+                    position: absolute;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    text-align: center;
+                    color:rgb(236, 158, 158)
+                }
+                .content5 h5 {
+                    font-size: 70px;
+                    margin-top: 80px;
+                }
+                .content5 p {
+                    margin: 20px auto;
+                    font-weight: 100;
+                    line-height: 25px; }
+
+                    .banner6 { 
+                        width: 100%;
+                        height: 100vh;
+                        background-image: linear-gradient(rgba(235, 158, 158, 0.65), rgba(0, 0, 0, 0.65)), url(https://64.media.tumblr.com/2220265cb1b67b9283a1322214ec7514/578436077289df99-90/s400x600/46e6086c029119b5ae314f8c487af941163e969a.gifv);
+                        background-size: cover;
+                        background-position: center;
+                     }  
+                     .barra6 {
+                        width: 85%;
+                        margin: auto;
+                        padding: 35px 0;
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        }
+                        .logo6 {
+                            width: 120px;
+                            cursor: pointer;
+                        }
+                        .barra6 ul li {
+                            list-style: none;
+                            display: inline-block;
+                            margin: 0 20px;
+                            position: relative;
+                        }
+                        .barra6 ul li a {
+                            text-decoration: none;
+                            color: rgb(0, 0, 0);
+                            text-transform: uppercase;
+                        }
+                        .barra6 ul li ::after {
+                            content: '';
+                            height: 3px;
+                            width: 0;
+                            background: rgb(0, 0, 0);
+                            position: absolute;
+                            left: 0px;
+                            bottom: -5px;
+                            transition: 0.5s;
+                
+                        }
+                        .barra6 ul li :hover::after {
+                            width: 100%;
+                        }
+                        .content6 {
+                            width: 100%;
+                            position: absolute;
+                            top: 50%;
+                            transform: translateY(-50%);
+                            text-align: center;
+                            color:rgb(236, 158, 158)
+
+                        }
+                        .content6 h6 {
+                            font-size: 70px;
+                            margin-top: 80px;
+                            
+                            
+                        }
+                           
+                            .banner7 { 
+                                width: 100%;
+                                height: 100vh;
+                                background-image: linear-gradient(rgba(235, 158, 158, 0.65), rgba(0, 0, 0, 0.65)), url(https://i0.wp.com/gifimage.net/wp-content/uploads/2018/05/shawn-mendes-gif-tumblr-5.gif);
+                                background-size: cover;
+                                background-position: center;
+                             }  
+                             .barra7 {
+                                width: 85%;
+                                margin: auto;
+                                padding: 35px 0;
+                                display: flex;
+                                align-items: center;
+                                justify-content: space-between;
+                                }
+                                .logo7 {
+                                    width: 120px;
+                                    cursor: pointer;
+                                }
+                                .barra7 ul li {
+                                    list-style: none;
+                                    display: inline-block;
+                                    margin: 0 20px;
+                                    position: relative;
+                                }
+                                .barra7 ul li a {
+                                    text-decoration: none;
+                                    color: rgb(0, 0, 0);
+                                    text-transform: uppercase;
+                                }
+                                .barra7 ul li ::after {
+                                    content: '';
+                                    height: 3px;
+                                    width: 0;
+                                    background: rgb(0, 0, 0);
+                                    position: absolute;
+                                    left: 0px;
+                                    bottom: -5px;
+                                    transition: 0.5s;
+                        
+                                }
+                                .barra7 ul li :hover::after {
+                                    width: 100%;
+                                }
+                                .content7 p {
+                                    margin: 20px auto;
+                                    font-weight: 100;
+                                    line-height: 25px; 
+                                    position: relative;
+                                    }
+                                     
